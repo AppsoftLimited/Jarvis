@@ -19,10 +19,12 @@ An amazing voice assistant, made using Python, that allows you to complete your 
  - Set daily routines like google routines etc.
  - And Many More....
 
-## Supported Platform
+## Supported Platforms
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DevMike123/Luca)
- 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/DevMike123/Luca)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/DevMike123/Luca)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/DevMike123/Luca)
 ## Contributing with VSCode
 - Fork this repo to start contributing.
 ``` sh
